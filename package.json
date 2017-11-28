@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gdjenkins19/fuzion-api-core/issues"
   },
-  "homepage": "https://github.com/gdjenkins19/fuzion-api-core#readme"  
+  "homepage": "https://github.com/gdjenkins19/fuzion-api-core#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
