@@ -1,0 +1,34 @@
+{
+  "name": "fuzion-api-core",
+  "version": "1.0.0",
+  "description": "Node Package for common fuzion api core functionality.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdjenkins19/fuzion-api-core.git"
+  },
+  "keywords": [
+    "fuzion",
+    "api",
+    "core"
+  ],
+  "author": "Gary Dean Jenkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdjenkins19/fuzion-api-core/issues"
+  },
+  "homepage": "https://github.com/gdjenkins19/fuzion-api-core#readme",
+  "dependencies": {
+    "eslint": "^4.11.0",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33",
+    "mysql": "^2.15.0",
+    "swagger-jsdoc": "^1.9.7"
+  },
+  "devDependencies": {
+    "nodeunit": "^0.11.2"
+  }
+}
